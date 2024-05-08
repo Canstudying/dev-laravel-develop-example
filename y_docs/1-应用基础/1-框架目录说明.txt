@@ -1,0 +1,10 @@
+
+fra_ci  引入ci框架，预留
+fra_lar	引入laravel框架
+
+storage	扩展目录，存在框架的运行文件、日志文件，只是示例文件，实际不启用
+vendor	引入第三方类库
+
+web		系统主目录
+web_api	对外api
+web_h5	手机端，预留

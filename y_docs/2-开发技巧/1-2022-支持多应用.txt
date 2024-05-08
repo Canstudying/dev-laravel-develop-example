@@ -1,0 +1,8 @@
+
+问题：如何实现多应用访问
+
+实现过程：
+
+1、public/index.php 	const APP_DIR2 = '/app_web';
+2、composer/autoload_static.php		public static $classMap   里  'App\\Http\\Kernel' => __DIR__ . '/../..' .APP_DIR2. '/app/Http/Kernel.php'
+		0 => __DIR__ . '/../..' .APP_DIR2. '/app',		#加载app下面的类

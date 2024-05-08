@@ -1,0 +1,8 @@
+
+Time：2022-05-28 22:37:00
+
+Content：
+1、修改目录为多个项目共用一个vendor
+2、public/index.php 	const APP_DIR2 = '/app_web';
+3、composer/autoload_static.php		public static $classMap   里  'App\\Http\\Kernel' => __DIR__ . '/../..' .APP_DIR2. '/app/Http/Kernel.php'
+		0 => __DIR__ . '/../..' .APP_DIR2. '/app',		#加载app下面的类

@@ -1,0 +1,10 @@
+
+Sync 同步说明
+
+主要同步目录：laravel
+
+不可同步目录：composer
+
+其他目录：按需要同步
+
+last sync time: 2022-11-14

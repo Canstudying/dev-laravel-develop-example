@@ -1,0 +1,19 @@
+
+学习url:
+Laravel-6 文档	168   （计划10月份学习完）
+Laravel 基础：https://laravelacademy.org/post/19920
+Laravel 从学徒到工匠：https://laravelacademy.org/books/laravel-from-appreciate-to-artisan
+
+
+================================
+最后更新：2024-02-26
+================================
+
+一、目标
+1、能进行中大型项目开发；
+2、中大系统、接口、服务；
+
+二、场景
+1、需要快速开发系统，如OMS；
+2、需要开发接口；
+3、需要提供一个稳定后端服务；
