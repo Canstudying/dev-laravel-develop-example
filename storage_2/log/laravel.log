@@ -1,0 +1,1 @@
+[2024-07-29 10:16:25] local.ERROR: Class 'App\Http\Controllers\Log' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'App\\Http\\Controllers\\Log' not found at E:\\www\\w_dev\\w_a_a\\a1\\v1.0_6.20\\web\\app\\app\\Http\\Controllers\\TestController.php:10)

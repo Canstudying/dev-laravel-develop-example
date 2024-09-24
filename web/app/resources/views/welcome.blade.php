@@ -7,7 +7,7 @@
         <title>Laravel</title>
 
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
 
         <!-- Styles -->
         <style>
@@ -92,14 +92,8 @@
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/rex2017/dev-laravel-refer-develop-general-project" target='_blank'>GitHub</a>
-					<a href="#">Dev</a>
+                    <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
-				
-				<div>
-					<p>dev-laravel-refer-develop-general-project</p>
-				</div>
-				
             </div>
         </div>
     </body>

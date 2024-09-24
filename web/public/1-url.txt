@@ -1,4 +1,0 @@
-
-主入口	http://localhost:8026/index
-
-数据 	http://localhost:8026/db
